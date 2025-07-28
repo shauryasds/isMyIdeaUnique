@@ -5,6 +5,12 @@ FounderAI is a full-stack, production-grade web application that uses **Generati
 This project was formerly known as `isMyIdeaUnique`, now rebranded as **FounderAI** to better reflect its mission of empowering entrepreneurs and innovators through intelligent idea evaluation.
 
 ---
+# Demo
+<img width="1470" height="797" alt="image" src="https://github.com/user-attachments/assets/f8e9745f-6309-4769-9759-97a6bcc24815" />
+<img width="1470" height="797" alt="image" src="https://github.com/user-attachments/assets/650b5623-1613-4c75-92ae-8b0282283627" />
+<img width="1470" height="797" alt="image" src="https://github.com/user-attachments/assets/f0be2b9e-463f-40c4-94b5-1712278d2279" />
+<img width="1470" height="797" alt="image" src="https://github.com/user-attachments/assets/223b832e-d873-4e7d-b4c8-a1126421a55a" />
+<img width="1470" height="797" alt="image" src="https://github.com/user-attachments/assets/40979204-1ac9-444e-a703-0ba81b37ee0c" />
 
 ## 🧠 Key Features
 
@@ -30,12 +36,12 @@ This project was formerly known as `isMyIdeaUnique`, now rebranded as **FounderA
 |---------------|-------------------------------------------------------------|
 | Frontend      | Next.js 15 (App Router), Tailwind CSS                       |
 | Backend       | Node.js 22, Express, Supabase (DB + Auth + Storage)         |
-| AI Layer      | Gemini / GPT via LangChain + Google Search APIs             |
-| Search Layer  | SerpAPI, Google Custom Search API                           |
+| AI Layer      | Gemini  via LangChain + Surp Search APIs                    |
+| Search Layer  | SerpAPI,               Search API                           |
 | DevOps        | Docker, Docker Compose                                      |
-| Deployment    | Vercel / Docker / Any cloud of choice                       |
+| Deployment    | Vercel / Docker                                             |
 
----
+------------------------------------------------------------------------------
 
 ## 🐳 Run with Docker
 
