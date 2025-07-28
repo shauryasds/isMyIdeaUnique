@@ -1,0 +1,31 @@
+# Node modules (don't copy local node_modules into the container)
+node_modules
+# Next.js build output
+.next
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# Environment files -- be cautious, exclude if you don't want to leak secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Git files
+.git
+.gitignore
+# Docker files themselves (optional)
+Dockerfile
+.dockerignore
+# VSCode settings (optional)
+.vscode
+# Mac OS metadata files
+.DS_Store
+# Other OS files
+Thumbs.db
+
+# Optional: exclude test files/folders
+/__tests__
+/tests
